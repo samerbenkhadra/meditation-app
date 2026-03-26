@@ -41,7 +41,7 @@ body {
 
 .header {
     background: linear-gradient(140deg, var(--primary), var(--secondary));
-    color: white;
+    color: red;
     padding: 20px 22px;
     display: flex;
     justify-content: space-between;
