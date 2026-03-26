@@ -102,7 +102,7 @@ const meditationCategories = {
         sessions: [
             {
                 id: 'fo1',
-                title: 'Mental Clarity',
+                title: 'Mental Clariti',
                 duration: 10,
                 description: 'Clear your mind and enhance focus',
                 guidance: [
